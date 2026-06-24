@@ -1,0 +1,220 @@
+06/22-06:02:41.249422 [**] [1:1000001:1] ET SCAN Nmap SYN Scan [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 45.227.254.10:16868 -> 192.168.1.102:80
+06/22-06:05:31.249422 [**] [1:1000003:1] ET WEB_SPECIFIC_APPS Suspicious Admin Panel Access Attempt [**] [Classification: Web Application Attack] [Priority: 2] {TCP} 10.0.0.5:47475 -> 45.227.254.10:8333
+06/22-06:10:41.249422 [**] [1:1000001:1] ET SCAN Nmap SYN Scan [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 192.168.1.5:2346 -> 192.168.1.105:80
+06/22-06:11:35.249422 [**] [1:1000002:1] ET MALWARE Evil C2 DNS Lookup [**] [Classification: A Network Trojan was Detected] [Priority: 1] {UDP} 192.168.1.100:23486 -> 192.168.1.5:4444
+06/22-06:17:09.249422 [**] [1:1000003:1] ET WEB_SPECIFIC_APPS Suspicious Admin Panel Access Attempt [**] [Classification: Web Application Attack] [Priority: 2] {TCP} 10.0.0.5:41908 -> 185.220.101.5:8333
+06/22-06:38:21.249422 [**] [1:1000003:1] ET WEB_SPECIFIC_APPS Suspicious Admin Panel Access Attempt [**] [Classification: Web Application Attack] [Priority: 2] {TCP} 192.168.1.105:2405 -> 103.20.15.4:8333
+06/22-06:38:23.249422 [**] [1:1000007:1] ET MALWARE Generic Adware traffic [**] [Classification: A Network Trojan was Detected] [Priority: 3] {TCP} 192.168.1.102:30022 -> 45.227.254.10:80
+06/22-06:41:11.249422 [**] [1:1000001:1] ET SCAN Nmap SYN Scan [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 192.168.1.5:33038 -> 192.168.1.105:80
+06/22-06:47:58.249422 [**] [1:1000007:1] ET MALWARE Generic Adware traffic [**] [Classification: A Network Trojan was Detected] [Priority: 3] {TCP} 192.168.1.102:24922 -> 198.51.100.12:80
+06/22-06:51:13.249422 [**] [1:1000003:1] ET WEB_SPECIFIC_APPS Suspicious Admin Panel Access Attempt [**] [Classification: Web Application Attack] [Priority: 2] {TCP} 10.0.0.5:50119 -> 45.227.254.10:8333
+06/22-06:54:21.249422 [**] [1:1000006:1] ET POLICY Cryptomining pool activity detected [**] [Classification: Potential Corporate Policy Violation] [Priority: 3] {TCP} 10.0.0.5:65210 -> 198.51.100.12:8333
+06/22-06:55:38.249422 [**] [1:1000002:1] ET MALWARE Evil C2 DNS Lookup [**] [Classification: A Network Trojan was Detected] [Priority: 1] {UDP} 192.168.1.100:38935 -> 103.20.15.4:4444
+06/22-06:58:13.249422 [**] [1:1000004:1] ET DOS Exploit Attempt (EternalBlue style) [**] [Classification: Attempted Administrator Privilege Gain] [Priority: 1] {TCP} 103.20.15.4:9639 -> 192.168.1.101:445
+06/22-07:04:17.249422 [**] [1:1000003:1] ET WEB_SPECIFIC_APPS Suspicious Admin Panel Access Attempt [**] [Classification: Web Application Attack] [Priority: 2] {TCP} 192.168.1.102:40038 -> 192.168.1.5:8333
+06/22-07:15:42.249422 [**] [1:1000001:1] ET SCAN Nmap SYN Scan [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 192.168.1.5:42832 -> 192.168.1.105:80
+06/22-07:17:01.249422 [**] [1:1000002:1] ET MALWARE Evil C2 DNS Lookup [**] [Classification: A Network Trojan was Detected] [Priority: 1] {UDP} 192.168.1.102:41976 -> 45.227.254.10:4444
+06/22-07:27:05.249422 [**] [1:1000005:1] ET DECRYPT SSH Bruteforce login successful [**] [Classification: Suspicious Login Activity] [Priority: 1] {TCP} 185.220.101.5:55185 -> 192.168.1.101:22
+06/22-07:33:21.249422 [**] [1:1000005:1] ET DECRYPT SSH Bruteforce login successful [**] [Classification: Suspicious Login Activity] [Priority: 1] {TCP} 103.20.15.4:28757 -> 192.168.1.105:22
+06/22-07:34:41.249422 [**] [1:1000006:1] ET POLICY Cryptomining pool activity detected [**] [Classification: Potential Corporate Policy Violation] [Priority: 3] {TCP} 192.168.1.100:32469 -> 45.227.254.10:8333
+06/22-07:39:11.249422 [**] [1:1000006:1] ET POLICY Cryptomining pool activity detected [**] [Classification: Potential Corporate Policy Violation] [Priority: 3] {TCP} 192.168.1.105:46890 -> 45.227.254.10:8333
+06/22-07:39:56.249422 [**] [1:1000007:1] ET MALWARE Generic Adware traffic [**] [Classification: A Network Trojan was Detected] [Priority: 3] {TCP} 192.168.1.102:37455 -> 185.220.101.5:80
+06/22-07:44:59.249422 [**] [1:1000004:1] ET DOS Exploit Attempt (EternalBlue style) [**] [Classification: Attempted Administrator Privilege Gain] [Priority: 1] {TCP} 192.168.1.5:47069 -> 192.168.1.105:445
+06/22-07:46:41.249422 [**] [1:1000007:1] ET MALWARE Generic Adware traffic [**] [Classification: A Network Trojan was Detected] [Priority: 3] {TCP} 10.0.0.5:57922 -> 198.51.100.12:80
+06/22-07:52:56.249422 [**] [1:1000005:1] ET DECRYPT SSH Bruteforce login successful [**] [Classification: Suspicious Login Activity] [Priority: 1] {TCP} 45.227.254.10:43594 -> 192.168.1.102:22
+06/22-07:53:41.249422 [**] [1:1000005:1] ET DECRYPT SSH Bruteforce login successful [**] [Classification: Suspicious Login Activity] [Priority: 1] {TCP} 103.20.15.4:62568 -> 192.168.1.105:22
+06/22-07:55:44.249422 [**] [1:1000002:1] ET MALWARE Evil C2 DNS Lookup [**] [Classification: A Network Trojan was Detected] [Priority: 1] {UDP} 192.168.1.100:31357 -> 103.20.15.4:4444
+06/22-07:55:47.249422 [**] [1:1000007:1] ET MALWARE Generic Adware traffic [**] [Classification: A Network Trojan was Detected] [Priority: 3] {TCP} 10.0.0.5:14738 -> 185.220.101.5:80
+06/22-07:57:26.249422 [**] [1:1000003:1] ET WEB_SPECIFIC_APPS Suspicious Admin Panel Access Attempt [**] [Classification: Web Application Attack] [Priority: 2] {TCP} 192.168.1.101:37801 -> 192.168.1.5:8333
+06/22-08:00:22.249422 [**] [1:1000007:1] ET MALWARE Generic Adware traffic [**] [Classification: A Network Trojan was Detected] [Priority: 3] {TCP} 192.168.1.100:63564 -> 45.227.254.10:80
+06/22-08:03:56.249422 [**] [1:1000004:1] ET DOS Exploit Attempt (EternalBlue style) [**] [Classification: Attempted Administrator Privilege Gain] [Priority: 1] {TCP} 192.168.1.5:44631 -> 192.168.1.102:445
+06/22-08:08:05.249422 [**] [1:1000004:1] ET DOS Exploit Attempt (EternalBlue style) [**] [Classification: Attempted Administrator Privilege Gain] [Priority: 1] {TCP} 185.220.101.5:58056 -> 192.168.1.102:445
+06/22-08:08:46.249422 [**] [1:1000002:1] ET MALWARE Evil C2 DNS Lookup [**] [Classification: A Network Trojan was Detected] [Priority: 1] {UDP} 192.168.1.101:18604 -> 185.220.101.5:4444
+06/22-08:15:15.249422 [**] [1:1000007:1] ET MALWARE Generic Adware traffic [**] [Classification: A Network Trojan was Detected] [Priority: 3] {TCP} 192.168.1.101:36437 -> 103.20.15.4:80
+06/22-08:17:44.249422 [**] [1:1000004:1] ET DOS Exploit Attempt (EternalBlue style) [**] [Classification: Attempted Administrator Privilege Gain] [Priority: 1] {TCP} 192.168.1.5:32563 -> 192.168.1.100:445
+06/22-08:18:57.249422 [**] [1:1000001:1] ET SCAN Nmap SYN Scan [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 45.227.254.10:28874 -> 192.168.1.101:80
+06/22-08:21:51.249422 [**] [1:1000001:1] ET SCAN Nmap SYN Scan [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 185.220.101.5:48170 -> 192.168.1.101:80
+06/22-08:23:49.249422 [**] [1:1000007:1] ET MALWARE Generic Adware traffic [**] [Classification: A Network Trojan was Detected] [Priority: 3] {TCP} 192.168.1.100:55049 -> 198.51.100.12:80
+06/22-08:33:23.249422 [**] [1:1000002:1] ET MALWARE Evil C2 DNS Lookup [**] [Classification: A Network Trojan was Detected] [Priority: 1] {UDP} 192.168.1.105:20855 -> 185.220.101.5:4444
+06/22-08:33:59.249422 [**] [1:1000005:1] ET DECRYPT SSH Bruteforce login successful [**] [Classification: Suspicious Login Activity] [Priority: 1] {TCP} 103.20.15.4:57685 -> 192.168.1.102:22
+06/22-08:34:21.249422 [**] [1:1000003:1] ET WEB_SPECIFIC_APPS Suspicious Admin Panel Access Attempt [**] [Classification: Web Application Attack] [Priority: 2] {TCP} 10.0.0.5:12529 -> 198.51.100.12:8333
+06/22-08:36:57.249422 [**] [1:1000006:1] ET POLICY Cryptomining pool activity detected [**] [Classification: Potential Corporate Policy Violation] [Priority: 3] {TCP} 192.168.1.100:55034 -> 198.51.100.12:8333
+06/22-08:44:07.249422 [**] [1:1000005:1] ET DECRYPT SSH Bruteforce login successful [**] [Classification: Suspicious Login Activity] [Priority: 1] {TCP} 185.220.101.5:61736 -> 10.0.0.5:22
+06/22-08:45:26.249422 [**] [1:1000003:1] ET WEB_SPECIFIC_APPS Suspicious Admin Panel Access Attempt [**] [Classification: Web Application Attack] [Priority: 2] {TCP} 192.168.1.105:41942 -> 103.20.15.4:8333
+06/22-09:00:01.249422 [**] [1:1000004:1] ET DOS Exploit Attempt (EternalBlue style) [**] [Classification: Attempted Administrator Privilege Gain] [Priority: 1] {TCP} 198.51.100.12:45110 -> 10.0.0.5:445
+06/22-09:10:45.249422 [**] [1:1000003:1] ET WEB_SPECIFIC_APPS Suspicious Admin Panel Access Attempt [**] [Classification: Web Application Attack] [Priority: 2] {TCP} 192.168.1.101:10440 -> 45.227.254.10:8333
+06/22-09:12:09.249422 [**] [1:1000005:1] ET DECRYPT SSH Bruteforce login successful [**] [Classification: Suspicious Login Activity] [Priority: 1] {TCP} 192.168.1.5:24390 -> 192.168.1.101:22
+06/22-09:24:11.249422 [**] [1:1000006:1] ET POLICY Cryptomining pool activity detected [**] [Classification: Potential Corporate Policy Violation] [Priority: 3] {TCP} 192.168.1.100:22785 -> 198.51.100.12:8333
+06/22-09:33:17.249422 [**] [1:1000001:1] ET SCAN Nmap SYN Scan [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 192.168.1.5:32083 -> 10.0.0.5:80
+06/22-09:37:41.249422 [**] [1:1000003:1] ET WEB_SPECIFIC_APPS Suspicious Admin Panel Access Attempt [**] [Classification: Web Application Attack] [Priority: 2] {TCP} 192.168.1.100:53053 -> 192.168.1.5:8333
+06/22-09:38:16.249422 [**] [1:1000005:1] ET DECRYPT SSH Bruteforce login successful [**] [Classification: Suspicious Login Activity] [Priority: 1] {TCP} 198.51.100.12:60619 -> 192.168.1.101:22
+06/22-09:38:39.249422 [**] [1:1000006:1] ET POLICY Cryptomining pool activity detected [**] [Classification: Potential Corporate Policy Violation] [Priority: 3] {TCP} 192.168.1.100:23803 -> 192.168.1.5:8333
+06/22-09:48:41.249422 [**] [1:1000007:1] ET MALWARE Generic Adware traffic [**] [Classification: A Network Trojan was Detected] [Priority: 3] {TCP} 192.168.1.101:6652 -> 185.220.101.5:80
+06/22-09:52:21.249422 [**] [1:1000005:1] ET DECRYPT SSH Bruteforce login successful [**] [Classification: Suspicious Login Activity] [Priority: 1] {TCP} 45.227.254.10:21227 -> 192.168.1.101:22
+06/22-09:52:36.249422 [**] [1:1000002:1] ET MALWARE Evil C2 DNS Lookup [**] [Classification: A Network Trojan was Detected] [Priority: 1] {UDP} 192.168.1.101:30467 -> 103.20.15.4:4444
+06/22-09:57:51.249422 [**] [1:1000005:1] ET DECRYPT SSH Bruteforce login successful [**] [Classification: Suspicious Login Activity] [Priority: 1] {TCP} 45.227.254.10:4275 -> 192.168.1.105:22
+06/22-10:00:49.249422 [**] [1:1000002:1] ET MALWARE Evil C2 DNS Lookup [**] [Classification: A Network Trojan was Detected] [Priority: 1] {UDP} 192.168.1.105:12356 -> 185.220.101.5:4444
+06/22-10:01:21.249422 [**] [1:1000005:1] ET DECRYPT SSH Bruteforce login successful [**] [Classification: Suspicious Login Activity] [Priority: 1] {TCP} 103.20.15.4:23977 -> 192.168.1.102:22
+06/22-10:13:21.249422 [**] [1:1000003:1] ET WEB_SPECIFIC_APPS Suspicious Admin Panel Access Attempt [**] [Classification: Web Application Attack] [Priority: 2] {TCP} 10.0.0.5:59294 -> 185.220.101.5:8333
+06/22-10:14:41.249422 [**] [1:1000003:1] ET WEB_SPECIFIC_APPS Suspicious Admin Panel Access Attempt [**] [Classification: Web Application Attack] [Priority: 2] {TCP} 192.168.1.100:38421 -> 45.227.254.10:8333
+06/22-10:17:05.249422 [**] [1:1000002:1] ET MALWARE Evil C2 DNS Lookup [**] [Classification: A Network Trojan was Detected] [Priority: 1] {UDP} 192.168.1.105:23446 -> 198.51.100.12:4444
+06/22-10:22:52.249422 [**] [1:1000005:1] ET DECRYPT SSH Bruteforce login successful [**] [Classification: Suspicious Login Activity] [Priority: 1] {TCP} 103.20.15.4:21419 -> 192.168.1.101:22
+06/22-10:26:41.249422 [**] [1:1000002:1] ET MALWARE Evil C2 DNS Lookup [**] [Classification: A Network Trojan was Detected] [Priority: 1] {UDP} 192.168.1.102:52804 -> 198.51.100.12:4444
+06/22-10:26:41.249422 [**] [1:1000006:1] ET POLICY Cryptomining pool activity detected [**] [Classification: Potential Corporate Policy Violation] [Priority: 3] {TCP} 192.168.1.100:51734 -> 198.51.100.12:8333
+06/22-10:31:29.249422 [**] [1:1000001:1] ET SCAN Nmap SYN Scan [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 185.220.101.5:39061 -> 192.168.1.100:80
+06/22-10:37:53.249422 [**] [1:1000006:1] ET POLICY Cryptomining pool activity detected [**] [Classification: Potential Corporate Policy Violation] [Priority: 3] {TCP} 192.168.1.105:58586 -> 45.227.254.10:8333
+06/22-10:40:45.249422 [**] [1:1000006:1] ET POLICY Cryptomining pool activity detected [**] [Classification: Potential Corporate Policy Violation] [Priority: 3] {TCP} 192.168.1.102:29747 -> 198.51.100.12:8333
+06/22-10:43:11.249422 [**] [1:1000005:1] ET DECRYPT SSH Bruteforce login successful [**] [Classification: Suspicious Login Activity] [Priority: 1] {TCP} 103.20.15.4:49427 -> 192.168.1.100:22
+06/22-10:43:54.249422 [**] [1:1000005:1] ET DECRYPT SSH Bruteforce login successful [**] [Classification: Suspicious Login Activity] [Priority: 1] {TCP} 45.227.254.10:64438 -> 192.168.1.102:22
+06/22-10:51:20.249422 [**] [1:1000007:1] ET MALWARE Generic Adware traffic [**] [Classification: A Network Trojan was Detected] [Priority: 3] {TCP} 192.168.1.102:47557 -> 198.51.100.12:80
+06/22-10:59:57.249422 [**] [1:1000005:1] ET DECRYPT SSH Bruteforce login successful [**] [Classification: Suspicious Login Activity] [Priority: 1] {TCP} 45.227.254.10:7352 -> 192.168.1.102:22
+06/22-11:01:21.249422 [**] [1:1000002:1] ET MALWARE Evil C2 DNS Lookup [**] [Classification: A Network Trojan was Detected] [Priority: 1] {UDP} 192.168.1.105:40801 -> 103.20.15.4:4444
+06/22-11:02:24.249422 [**] [1:1000007:1] ET MALWARE Generic Adware traffic [**] [Classification: A Network Trojan was Detected] [Priority: 3] {TCP} 10.0.0.5:44216 -> 198.51.100.12:80
+06/22-11:08:41.249422 [**] [1:1000003:1] ET WEB_SPECIFIC_APPS Suspicious Admin Panel Access Attempt [**] [Classification: Web Application Attack] [Priority: 2] {TCP} 10.0.0.5:59897 -> 45.227.254.10:8333
+06/22-11:10:11.249422 [**] [1:1000007:1] ET MALWARE Generic Adware traffic [**] [Classification: A Network Trojan was Detected] [Priority: 3] {TCP} 192.168.1.100:20576 -> 192.168.1.5:80
+06/22-11:14:17.249422 [**] [1:1000006:1] ET POLICY Cryptomining pool activity detected [**] [Classification: Potential Corporate Policy Violation] [Priority: 3] {TCP} 10.0.0.5:27443 -> 198.51.100.12:8333
+06/22-11:18:41.249422 [**] [1:1000003:1] ET WEB_SPECIFIC_APPS Suspicious Admin Panel Access Attempt [**] [Classification: Web Application Attack] [Priority: 2] {TCP} 192.168.1.101:52031 -> 192.168.1.5:8333
+06/22-11:26:05.249422 [**] [1:1000006:1] ET POLICY Cryptomining pool activity detected [**] [Classification: Potential Corporate Policy Violation] [Priority: 3] {TCP} 192.168.1.100:42414 -> 103.20.15.4:8333
+06/22-11:27:15.249422 [**] [1:1000002:1] ET MALWARE Evil C2 DNS Lookup [**] [Classification: A Network Trojan was Detected] [Priority: 1] {UDP} 192.168.1.100:20324 -> 192.168.1.5:4444
+06/22-11:29:45.249422 [**] [1:1000004:1] ET DOS Exploit Attempt (EternalBlue style) [**] [Classification: Attempted Administrator Privilege Gain] [Priority: 1] {TCP} 192.168.1.5:60930 -> 192.168.1.100:445
+06/22-11:33:53.249422 [**] [1:1000005:1] ET DECRYPT SSH Bruteforce login successful [**] [Classification: Suspicious Login Activity] [Priority: 1] {TCP} 198.51.100.12:27734 -> 192.168.1.101:22
+06/22-11:35:41.249422 [**] [1:1000005:1] ET DECRYPT SSH Bruteforce login successful [**] [Classification: Suspicious Login Activity] [Priority: 1] {TCP} 192.168.1.5:38026 -> 192.168.1.102:22
+06/22-11:40:57.249422 [**] [1:1000001:1] ET SCAN Nmap SYN Scan [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 45.227.254.10:5624 -> 192.168.1.100:80
+06/22-11:42:47.249422 [**] [1:1000005:1] ET DECRYPT SSH Bruteforce login successful [**] [Classification: Suspicious Login Activity] [Priority: 1] {TCP} 192.168.1.5:62483 -> 192.168.1.101:22
+06/22-12:01:01.249422 [**] [1:1000004:1] ET DOS Exploit Attempt (EternalBlue style) [**] [Classification: Attempted Administrator Privilege Gain] [Priority: 1] {TCP} 192.168.1.5:20887 -> 192.168.1.105:445
+06/22-12:03:53.249422 [**] [1:1000001:1] ET SCAN Nmap SYN Scan [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 103.20.15.4:38053 -> 192.168.1.102:80
+06/22-12:06:25.249422 [**] [1:1000002:1] ET MALWARE Evil C2 DNS Lookup [**] [Classification: A Network Trojan was Detected] [Priority: 1] {UDP} 192.168.1.102:48539 -> 198.51.100.12:4444
+06/22-12:06:29.249422 [**] [1:1000005:1] ET DECRYPT SSH Bruteforce login successful [**] [Classification: Suspicious Login Activity] [Priority: 1] {TCP} 103.20.15.4:41843 -> 192.168.1.101:22
+06/22-12:19:22.249422 [**] [1:1000001:1] ET SCAN Nmap SYN Scan [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 103.20.15.4:54738 -> 10.0.0.5:80
+06/22-12:34:03.249422 [**] [1:1000003:1] ET WEB_SPECIFIC_APPS Suspicious Admin Panel Access Attempt [**] [Classification: Web Application Attack] [Priority: 2] {TCP} 192.168.1.100:6347 -> 198.51.100.12:8333
+06/22-12:35:25.249422 [**] [1:1000003:1] ET WEB_SPECIFIC_APPS Suspicious Admin Panel Access Attempt [**] [Classification: Web Application Attack] [Priority: 2] {TCP} 192.168.1.105:2922 -> 192.168.1.5:8333
+06/22-12:35:56.249422 [**] [1:1000004:1] ET DOS Exploit Attempt (EternalBlue style) [**] [Classification: Attempted Administrator Privilege Gain] [Priority: 1] {TCP} 198.51.100.12:12641 -> 192.168.1.102:445
+06/22-12:38:53.249422 [**] [1:1000002:1] ET MALWARE Evil C2 DNS Lookup [**] [Classification: A Network Trojan was Detected] [Priority: 1] {UDP} 192.168.1.105:53544 -> 198.51.100.12:4444
+06/22-12:39:35.249422 [**] [1:1000007:1] ET MALWARE Generic Adware traffic [**] [Classification: A Network Trojan was Detected] [Priority: 3] {TCP} 192.168.1.102:15219 -> 192.168.1.5:80
+06/22-12:43:05.249422 [**] [1:1000003:1] ET WEB_SPECIFIC_APPS Suspicious Admin Panel Access Attempt [**] [Classification: Web Application Attack] [Priority: 2] {TCP} 10.0.0.5:55718 -> 185.220.101.5:8333
+06/22-12:43:07.249422 [**] [1:1000003:1] ET WEB_SPECIFIC_APPS Suspicious Admin Panel Access Attempt [**] [Classification: Web Application Attack] [Priority: 2] {TCP} 192.168.1.101:27482 -> 185.220.101.5:8333
+06/22-12:43:45.249422 [**] [1:1000005:1] ET DECRYPT SSH Bruteforce login successful [**] [Classification: Suspicious Login Activity] [Priority: 1] {TCP} 45.227.254.10:27246 -> 192.168.1.101:22
+06/22-12:54:46.249422 [**] [1:1000001:1] ET SCAN Nmap SYN Scan [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 198.51.100.12:25031 -> 192.168.1.100:80
+06/22-12:58:19.249422 [**] [1:1000002:1] ET MALWARE Evil C2 DNS Lookup [**] [Classification: A Network Trojan was Detected] [Priority: 1] {UDP} 192.168.1.100:44187 -> 185.220.101.5:4444
+06/22-13:15:05.249422 [**] [1:1000004:1] ET DOS Exploit Attempt (EternalBlue style) [**] [Classification: Attempted Administrator Privilege Gain] [Priority: 1] {TCP} 103.20.15.4:17515 -> 192.168.1.100:445
+06/22-13:24:56.249422 [**] [1:1000003:1] ET WEB_SPECIFIC_APPS Suspicious Admin Panel Access Attempt [**] [Classification: Web Application Attack] [Priority: 2] {TCP} 192.168.1.105:12989 -> 45.227.254.10:8333
+06/22-13:31:25.249422 [**] [1:1000002:1] ET MALWARE Evil C2 DNS Lookup [**] [Classification: A Network Trojan was Detected] [Priority: 1] {UDP} 192.168.1.101:19040 -> 103.20.15.4:4444
+06/22-13:34:53.249422 [**] [1:1000005:1] ET DECRYPT SSH Bruteforce login successful [**] [Classification: Suspicious Login Activity] [Priority: 1] {TCP} 192.168.1.5:17065 -> 192.168.1.105:22
+06/22-13:37:43.249422 [**] [1:1000002:1] ET MALWARE Evil C2 DNS Lookup [**] [Classification: A Network Trojan was Detected] [Priority: 1] {UDP} 192.168.1.101:54776 -> 185.220.101.5:4444
+06/22-13:40:43.249422 [**] [1:1000003:1] ET WEB_SPECIFIC_APPS Suspicious Admin Panel Access Attempt [**] [Classification: Web Application Attack] [Priority: 2] {TCP} 192.168.1.105:19594 -> 45.227.254.10:8333
+06/22-13:44:43.249422 [**] [1:1000004:1] ET DOS Exploit Attempt (EternalBlue style) [**] [Classification: Attempted Administrator Privilege Gain] [Priority: 1] {TCP} 192.168.1.5:24501 -> 192.168.1.101:445
+06/22-14:30:53.249422 [**] [1:1000001:1] ET SCAN Nmap SYN Scan [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 192.168.1.5:55693 -> 192.168.1.101:80
+06/22-14:32:02.249422 [**] [1:1000006:1] ET POLICY Cryptomining pool activity detected [**] [Classification: Potential Corporate Policy Violation] [Priority: 3] {TCP} 192.168.1.102:39518 -> 185.220.101.5:8333
+06/22-14:32:56.249422 [**] [1:1000006:1] ET POLICY Cryptomining pool activity detected [**] [Classification: Potential Corporate Policy Violation] [Priority: 3] {TCP} 192.168.1.101:35823 -> 192.168.1.5:8333
+06/22-14:38:49.249422 [**] [1:1000006:1] ET POLICY Cryptomining pool activity detected [**] [Classification: Potential Corporate Policy Violation] [Priority: 3] {TCP} 192.168.1.102:8094 -> 45.227.254.10:8333
+06/22-14:38:57.249422 [**] [1:1000003:1] ET WEB_SPECIFIC_APPS Suspicious Admin Panel Access Attempt [**] [Classification: Web Application Attack] [Priority: 2] {TCP} 192.168.1.102:46248 -> 103.20.15.4:8333
+06/22-14:49:16.249422 [**] [1:1000002:1] ET MALWARE Evil C2 DNS Lookup [**] [Classification: A Network Trojan was Detected] [Priority: 1] {UDP} 10.0.0.5:32563 -> 198.51.100.12:4444
+06/22-14:49:31.249422 [**] [1:1000001:1] ET SCAN Nmap SYN Scan [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 192.168.1.5:48620 -> 192.168.1.100:80
+06/22-14:50:53.249422 [**] [1:1000005:1] ET DECRYPT SSH Bruteforce login successful [**] [Classification: Suspicious Login Activity] [Priority: 1] {TCP} 198.51.100.12:36396 -> 192.168.1.100:22
+06/22-14:56:26.249422 [**] [1:1000006:1] ET POLICY Cryptomining pool activity detected [**] [Classification: Potential Corporate Policy Violation] [Priority: 3] {TCP} 192.168.1.105:34614 -> 192.168.1.5:8333
+06/22-14:56:46.249422 [**] [1:1000004:1] ET DOS Exploit Attempt (EternalBlue style) [**] [Classification: Attempted Administrator Privilege Gain] [Priority: 1] {TCP} 103.20.15.4:41143 -> 192.168.1.100:445
+06/22-15:00:41.249422 [**] [1:1000007:1] ET MALWARE Generic Adware traffic [**] [Classification: A Network Trojan was Detected] [Priority: 3] {TCP} 192.168.1.105:37686 -> 198.51.100.12:80
+06/22-15:09:30.249422 [**] [1:1000004:1] ET DOS Exploit Attempt (EternalBlue style) [**] [Classification: Attempted Administrator Privilege Gain] [Priority: 1] {TCP} 198.51.100.12:31018 -> 192.168.1.105:445
+06/22-15:16:53.249422 [**] [1:1000004:1] ET DOS Exploit Attempt (EternalBlue style) [**] [Classification: Attempted Administrator Privilege Gain] [Priority: 1] {TCP} 192.168.1.5:10560 -> 192.168.1.100:445
+06/22-15:17:10.249422 [**] [1:1000005:1] ET DECRYPT SSH Bruteforce login successful [**] [Classification: Suspicious Login Activity] [Priority: 1] {TCP} 185.220.101.5:21539 -> 192.168.1.100:22
+06/22-15:18:11.249422 [**] [1:1000005:1] ET DECRYPT SSH Bruteforce login successful [**] [Classification: Suspicious Login Activity] [Priority: 1] {TCP} 45.227.254.10:12929 -> 10.0.0.5:22
+06/22-15:27:45.249422 [**] [1:1000001:1] ET SCAN Nmap SYN Scan [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 103.20.15.4:33501 -> 192.168.1.102:80
+06/22-15:35:59.249422 [**] [1:1000003:1] ET WEB_SPECIFIC_APPS Suspicious Admin Panel Access Attempt [**] [Classification: Web Application Attack] [Priority: 2] {TCP} 192.168.1.105:9339 -> 103.20.15.4:8333
+06/22-15:38:26.249422 [**] [1:1000006:1] ET POLICY Cryptomining pool activity detected [**] [Classification: Potential Corporate Policy Violation] [Priority: 3] {TCP} 10.0.0.5:13344 -> 192.168.1.5:8333
+06/22-15:38:53.249422 [**] [1:1000001:1] ET SCAN Nmap SYN Scan [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 192.168.1.5:45837 -> 192.168.1.105:80
+06/22-15:39:47.249422 [**] [1:1000002:1] ET MALWARE Evil C2 DNS Lookup [**] [Classification: A Network Trojan was Detected] [Priority: 1] {UDP} 192.168.1.105:56762 -> 45.227.254.10:4444
+06/22-15:41:16.249422 [**] [1:1000006:1] ET POLICY Cryptomining pool activity detected [**] [Classification: Potential Corporate Policy Violation] [Priority: 3] {TCP} 192.168.1.105:63186 -> 192.168.1.5:8333
+06/22-15:51:41.249422 [**] [1:1000007:1] ET MALWARE Generic Adware traffic [**] [Classification: A Network Trojan was Detected] [Priority: 3] {TCP} 192.168.1.105:11028 -> 45.227.254.10:80
+06/22-15:54:33.249422 [**] [1:1000004:1] ET DOS Exploit Attempt (EternalBlue style) [**] [Classification: Attempted Administrator Privilege Gain] [Priority: 1] {TCP} 198.51.100.12:28969 -> 10.0.0.5:445
+06/22-15:54:51.249422 [**] [1:1000007:1] ET MALWARE Generic Adware traffic [**] [Classification: A Network Trojan was Detected] [Priority: 3] {TCP} 192.168.1.102:16427 -> 192.168.1.5:80
+06/22-15:57:49.249422 [**] [1:1000005:1] ET DECRYPT SSH Bruteforce login successful [**] [Classification: Suspicious Login Activity] [Priority: 1] {TCP} 192.168.1.5:6915 -> 192.168.1.105:22
+06/22-16:00:11.249422 [**] [1:1000002:1] ET MALWARE Evil C2 DNS Lookup [**] [Classification: A Network Trojan was Detected] [Priority: 1] {UDP} 192.168.1.101:8948 -> 185.220.101.5:4444
+06/22-16:01:35.249422 [**] [1:1000004:1] ET DOS Exploit Attempt (EternalBlue style) [**] [Classification: Attempted Administrator Privilege Gain] [Priority: 1] {TCP} 45.227.254.10:48405 -> 192.168.1.100:445
+06/22-16:10:17.249422 [**] [1:1000002:1] ET MALWARE Evil C2 DNS Lookup [**] [Classification: A Network Trojan was Detected] [Priority: 1] {UDP} 10.0.0.5:19968 -> 45.227.254.10:4444
+06/22-16:12:08.249422 [**] [1:1000004:1] ET DOS Exploit Attempt (EternalBlue style) [**] [Classification: Attempted Administrator Privilege Gain] [Priority: 1] {TCP} 192.168.1.5:2537 -> 192.168.1.101:445
+06/22-16:14:43.249422 [**] [1:1000002:1] ET MALWARE Evil C2 DNS Lookup [**] [Classification: A Network Trojan was Detected] [Priority: 1] {UDP} 192.168.1.102:49431 -> 192.168.1.5:4444
+06/22-16:18:33.249422 [**] [1:1000006:1] ET POLICY Cryptomining pool activity detected [**] [Classification: Potential Corporate Policy Violation] [Priority: 3] {TCP} 192.168.1.105:11370 -> 198.51.100.12:8333
+06/22-16:26:35.249422 [**] [1:1000006:1] ET POLICY Cryptomining pool activity detected [**] [Classification: Potential Corporate Policy Violation] [Priority: 3] {TCP} 192.168.1.100:46081 -> 192.168.1.5:8333
+06/22-16:29:46.249422 [**] [1:1000004:1] ET DOS Exploit Attempt (EternalBlue style) [**] [Classification: Attempted Administrator Privilege Gain] [Priority: 1] {TCP} 192.168.1.5:8545 -> 192.168.1.101:445
+06/22-16:37:51.249422 [**] [1:1000002:1] ET MALWARE Evil C2 DNS Lookup [**] [Classification: A Network Trojan was Detected] [Priority: 1] {UDP} 192.168.1.102:43388 -> 45.227.254.10:4444
+06/22-16:38:03.249422 [**] [1:1000007:1] ET MALWARE Generic Adware traffic [**] [Classification: A Network Trojan was Detected] [Priority: 3] {TCP} 192.168.1.101:42299 -> 198.51.100.12:80
+06/22-16:39:13.249422 [**] [1:1000004:1] ET DOS Exploit Attempt (EternalBlue style) [**] [Classification: Attempted Administrator Privilege Gain] [Priority: 1] {TCP} 185.220.101.5:32701 -> 192.168.1.100:445
+06/22-16:46:11.249422 [**] [1:1000001:1] ET SCAN Nmap SYN Scan [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 192.168.1.5:28944 -> 192.168.1.102:80
+06/22-16:50:16.249422 [**] [1:1000001:1] ET SCAN Nmap SYN Scan [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 45.227.254.10:20636 -> 192.168.1.101:80
+06/22-16:57:53.249422 [**] [1:1000002:1] ET MALWARE Evil C2 DNS Lookup [**] [Classification: A Network Trojan was Detected] [Priority: 1] {UDP} 192.168.1.100:43575 -> 192.168.1.5:4444
+06/22-17:11:11.249422 [**] [1:1000007:1] ET MALWARE Generic Adware traffic [**] [Classification: A Network Trojan was Detected] [Priority: 3] {TCP} 192.168.1.105:36172 -> 185.220.101.5:80
+06/22-17:17:01.249422 [**] [1:1000002:1] ET MALWARE Evil C2 DNS Lookup [**] [Classification: A Network Trojan was Detected] [Priority: 1] {UDP} 192.168.1.105:46881 -> 192.168.1.5:4444
+06/22-17:18:08.249422 [**] [1:1000006:1] ET POLICY Cryptomining pool activity detected [**] [Classification: Potential Corporate Policy Violation] [Priority: 3] {TCP} 192.168.1.102:22479 -> 198.51.100.12:8333
+06/22-17:18:53.249422 [**] [1:1000005:1] ET DECRYPT SSH Bruteforce login successful [**] [Classification: Suspicious Login Activity] [Priority: 1] {TCP} 198.51.100.12:58878 -> 192.168.1.105:22
+06/22-17:23:29.249422 [**] [1:1000005:1] ET DECRYPT SSH Bruteforce login successful [**] [Classification: Suspicious Login Activity] [Priority: 1] {TCP} 198.51.100.12:63054 -> 10.0.0.5:22
+06/22-17:25:47.249422 [**] [1:1000002:1] ET MALWARE Evil C2 DNS Lookup [**] [Classification: A Network Trojan was Detected] [Priority: 1] {UDP} 192.168.1.101:14458 -> 192.168.1.5:4444
+06/22-17:53:06.249422 [**] [1:1000002:1] ET MALWARE Evil C2 DNS Lookup [**] [Classification: A Network Trojan was Detected] [Priority: 1] {UDP} 192.168.1.100:17723 -> 192.168.1.5:4444
+06/22-17:56:13.249422 [**] [1:1000007:1] ET MALWARE Generic Adware traffic [**] [Classification: A Network Trojan was Detected] [Priority: 3] {TCP} 192.168.1.101:8082 -> 192.168.1.5:80
+06/22-18:02:41.249422 [**] [1:1000005:1] ET DECRYPT SSH Bruteforce login successful [**] [Classification: Suspicious Login Activity] [Priority: 1] {TCP} 198.51.100.12:5395 -> 192.168.1.105:22
+06/22-18:07:11.249422 [**] [1:1000007:1] ET MALWARE Generic Adware traffic [**] [Classification: A Network Trojan was Detected] [Priority: 3] {TCP} 10.0.0.5:64155 -> 192.168.1.5:80
+06/22-18:10:41.249422 [**] [1:1000001:1] ET SCAN Nmap SYN Scan [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 185.220.101.5:32338 -> 192.168.1.100:80
+06/22-18:11:26.249422 [**] [1:1000006:1] ET POLICY Cryptomining pool activity detected [**] [Classification: Potential Corporate Policy Violation] [Priority: 3] {TCP} 192.168.1.100:15046 -> 45.227.254.10:8333
+06/22-18:21:53.249422 [**] [1:1000007:1] ET MALWARE Generic Adware traffic [**] [Classification: A Network Trojan was Detected] [Priority: 3] {TCP} 192.168.1.100:18288 -> 192.168.1.5:80
+06/22-18:25:02.249422 [**] [1:1000002:1] ET MALWARE Evil C2 DNS Lookup [**] [Classification: A Network Trojan was Detected] [Priority: 1] {UDP} 192.168.1.105:25676 -> 45.227.254.10:4444
+06/22-18:29:06.249422 [**] [1:1000004:1] ET DOS Exploit Attempt (EternalBlue style) [**] [Classification: Attempted Administrator Privilege Gain] [Priority: 1] {TCP} 192.168.1.5:46808 -> 192.168.1.105:445
+06/22-18:50:57.249422 [**] [1:1000007:1] ET MALWARE Generic Adware traffic [**] [Classification: A Network Trojan was Detected] [Priority: 3] {TCP} 192.168.1.105:7919 -> 103.20.15.4:80
+06/22-19:01:41.249422 [**] [1:1000005:1] ET DECRYPT SSH Bruteforce login successful [**] [Classification: Suspicious Login Activity] [Priority: 1] {TCP} 192.168.1.5:30847 -> 192.168.1.102:22
+06/22-19:02:09.249422 [**] [1:1000003:1] ET WEB_SPECIFIC_APPS Suspicious Admin Panel Access Attempt [**] [Classification: Web Application Attack] [Priority: 2] {TCP} 192.168.1.101:47674 -> 198.51.100.12:8333
+06/22-19:14:41.249422 [**] [1:1000007:1] ET MALWARE Generic Adware traffic [**] [Classification: A Network Trojan was Detected] [Priority: 3] {TCP} 192.168.1.105:31468 -> 192.168.1.5:80
+06/22-19:17:17.249422 [**] [1:1000005:1] ET DECRYPT SSH Bruteforce login successful [**] [Classification: Suspicious Login Activity] [Priority: 1] {TCP} 45.227.254.10:32736 -> 10.0.0.5:22
+06/22-19:18:40.249422 [**] [1:1000007:1] ET MALWARE Generic Adware traffic [**] [Classification: A Network Trojan was Detected] [Priority: 3] {TCP} 10.0.0.5:60327 -> 198.51.100.12:80
+06/22-19:23:31.249422 [**] [1:1000001:1] ET SCAN Nmap SYN Scan [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 103.20.15.4:60028 -> 10.0.0.5:80
+06/22-19:28:01.249422 [**] [1:1000007:1] ET MALWARE Generic Adware traffic [**] [Classification: A Network Trojan was Detected] [Priority: 3] {TCP} 192.168.1.100:10779 -> 103.20.15.4:80
+06/22-19:32:17.249422 [**] [1:1000002:1] ET MALWARE Evil C2 DNS Lookup [**] [Classification: A Network Trojan was Detected] [Priority: 1] {UDP} 192.168.1.102:4997 -> 45.227.254.10:4444
+06/22-19:37:21.249422 [**] [1:1000001:1] ET SCAN Nmap SYN Scan [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 185.220.101.5:60199 -> 192.168.1.101:80
+06/22-19:43:05.249422 [**] [1:1000002:1] ET MALWARE Evil C2 DNS Lookup [**] [Classification: A Network Trojan was Detected] [Priority: 1] {UDP} 192.168.1.102:9438 -> 185.220.101.5:4444
+06/22-19:53:41.249422 [**] [1:1000007:1] ET MALWARE Generic Adware traffic [**] [Classification: A Network Trojan was Detected] [Priority: 3] {TCP} 192.168.1.102:54133 -> 45.227.254.10:80
+06/22-19:54:33.249422 [**] [1:1000004:1] ET DOS Exploit Attempt (EternalBlue style) [**] [Classification: Attempted Administrator Privilege Gain] [Priority: 1] {TCP} 192.168.1.5:22665 -> 192.168.1.105:445
+06/22-19:54:43.249422 [**] [1:1000005:1] ET DECRYPT SSH Bruteforce login successful [**] [Classification: Suspicious Login Activity] [Priority: 1] {TCP} 198.51.100.12:14957 -> 192.168.1.101:22
+06/22-20:00:11.249422 [**] [1:1000003:1] ET WEB_SPECIFIC_APPS Suspicious Admin Panel Access Attempt [**] [Classification: Web Application Attack] [Priority: 2] {TCP} 192.168.1.105:39852 -> 185.220.101.5:8333
+06/22-20:09:21.249422 [**] [1:1000001:1] ET SCAN Nmap SYN Scan [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 185.220.101.5:55715 -> 10.0.0.5:80
+06/22-20:31:25.249422 [**] [1:1000003:1] ET WEB_SPECIFIC_APPS Suspicious Admin Panel Access Attempt [**] [Classification: Web Application Attack] [Priority: 2] {TCP} 10.0.0.5:2631 -> 192.168.1.5:8333
+06/22-20:37:37.249422 [**] [1:1000007:1] ET MALWARE Generic Adware traffic [**] [Classification: A Network Trojan was Detected] [Priority: 3] {TCP} 10.0.0.5:11373 -> 45.227.254.10:80
+06/22-20:42:20.249422 [**] [1:1000005:1] ET DECRYPT SSH Bruteforce login successful [**] [Classification: Suspicious Login Activity] [Priority: 1] {TCP} 103.20.15.4:1067 -> 192.168.1.100:22
+06/22-20:45:30.249422 [**] [1:1000001:1] ET SCAN Nmap SYN Scan [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 45.227.254.10:6505 -> 192.168.1.105:80
+06/22-21:12:45.249422 [**] [1:1000002:1] ET MALWARE Evil C2 DNS Lookup [**] [Classification: A Network Trojan was Detected] [Priority: 1] {UDP} 10.0.0.5:6327 -> 192.168.1.5:4444
+06/22-21:19:23.249422 [**] [1:1000003:1] ET WEB_SPECIFIC_APPS Suspicious Admin Panel Access Attempt [**] [Classification: Web Application Attack] [Priority: 2] {TCP} 192.168.1.105:22264 -> 103.20.15.4:8333
+06/22-21:26:29.249422 [**] [1:1000003:1] ET WEB_SPECIFIC_APPS Suspicious Admin Panel Access Attempt [**] [Classification: Web Application Attack] [Priority: 2] {TCP} 192.168.1.101:16683 -> 198.51.100.12:8333
+06/22-21:27:21.249422 [**] [1:1000002:1] ET MALWARE Evil C2 DNS Lookup [**] [Classification: A Network Trojan was Detected] [Priority: 1] {UDP} 192.168.1.100:6230 -> 185.220.101.5:4444
+06/22-21:27:26.249422 [**] [1:1000005:1] ET DECRYPT SSH Bruteforce login successful [**] [Classification: Suspicious Login Activity] [Priority: 1] {TCP} 192.168.1.5:55314 -> 10.0.0.5:22
+06/22-21:31:45.249422 [**] [1:1000007:1] ET MALWARE Generic Adware traffic [**] [Classification: A Network Trojan was Detected] [Priority: 3] {TCP} 192.168.1.102:26918 -> 198.51.100.12:80
+06/22-21:42:33.249422 [**] [1:1000005:1] ET DECRYPT SSH Bruteforce login successful [**] [Classification: Suspicious Login Activity] [Priority: 1] {TCP} 192.168.1.5:26269 -> 192.168.1.102:22
+06/22-21:47:37.249422 [**] [1:1000003:1] ET WEB_SPECIFIC_APPS Suspicious Admin Panel Access Attempt [**] [Classification: Web Application Attack] [Priority: 2] {TCP} 192.168.1.100:40827 -> 185.220.101.5:8333
+06/22-21:48:41.249422 [**] [1:1000005:1] ET DECRYPT SSH Bruteforce login successful [**] [Classification: Suspicious Login Activity] [Priority: 1] {TCP} 192.168.1.5:64531 -> 192.168.1.102:22
+06/22-21:49:53.249422 [**] [1:1000005:1] ET DECRYPT SSH Bruteforce login successful [**] [Classification: Suspicious Login Activity] [Priority: 1] {TCP} 192.168.1.5:51703 -> 192.168.1.100:22
+06/22-22:05:33.249422 [**] [1:1000005:1] ET DECRYPT SSH Bruteforce login successful [**] [Classification: Suspicious Login Activity] [Priority: 1] {TCP} 103.20.15.4:35037 -> 192.168.1.101:22
+06/22-22:08:02.249422 [**] [1:1000007:1] ET MALWARE Generic Adware traffic [**] [Classification: A Network Trojan was Detected] [Priority: 3] {TCP} 192.168.1.100:45936 -> 45.227.254.10:80
+06/22-22:37:58.249422 [**] [1:1000003:1] ET WEB_SPECIFIC_APPS Suspicious Admin Panel Access Attempt [**] [Classification: Web Application Attack] [Priority: 2] {TCP} 192.168.1.105:19551 -> 185.220.101.5:8333
+06/22-22:43:47.249422 [**] [1:1000005:1] ET DECRYPT SSH Bruteforce login successful [**] [Classification: Suspicious Login Activity] [Priority: 1] {TCP} 103.20.15.4:10043 -> 192.168.1.105:22
+06/22-22:44:23.249422 [**] [1:1000006:1] ET POLICY Cryptomining pool activity detected [**] [Classification: Potential Corporate Policy Violation] [Priority: 3] {TCP} 192.168.1.100:10007 -> 103.20.15.4:8333
+06/22-23:07:17.249422 [**] [1:1000007:1] ET MALWARE Generic Adware traffic [**] [Classification: A Network Trojan was Detected] [Priority: 3] {TCP} 192.168.1.105:30974 -> 198.51.100.12:80
+06/22-23:07:39.249422 [**] [1:1000006:1] ET POLICY Cryptomining pool activity detected [**] [Classification: Potential Corporate Policy Violation] [Priority: 3] {TCP} 10.0.0.5:35070 -> 45.227.254.10:8333
+06/22-23:14:05.249422 [**] [1:1000003:1] ET WEB_SPECIFIC_APPS Suspicious Admin Panel Access Attempt [**] [Classification: Web Application Attack] [Priority: 2] {TCP} 192.168.1.101:25207 -> 185.220.101.5:8333
+06/22-23:14:31.249422 [**] [1:1000006:1] ET POLICY Cryptomining pool activity detected [**] [Classification: Potential Corporate Policy Violation] [Priority: 3] {TCP} 192.168.1.105:41644 -> 192.168.1.5:8333
+06/22-23:19:29.249422 [**] [1:1000003:1] ET WEB_SPECIFIC_APPS Suspicious Admin Panel Access Attempt [**] [Classification: Web Application Attack] [Priority: 2] {TCP} 192.168.1.102:57360 -> 185.220.101.5:8333
+06/22-23:32:53.249422 [**] [1:1000004:1] ET DOS Exploit Attempt (EternalBlue style) [**] [Classification: Attempted Administrator Privilege Gain] [Priority: 1] {TCP} 192.168.1.5:18000 -> 192.168.1.101:445
+06/22-23:34:10.249422 [**] [1:1000007:1] ET MALWARE Generic Adware traffic [**] [Classification: A Network Trojan was Detected] [Priority: 3] {TCP} 10.0.0.5:45328 -> 103.20.15.4:80
+06/22-23:50:25.249422 [**] [1:1000004:1] ET DOS Exploit Attempt (EternalBlue style) [**] [Classification: Attempted Administrator Privilege Gain] [Priority: 1] {TCP} 192.168.1.5:45577 -> 192.168.1.101:445
+06/23-00:29:10.249422 [**] [1:1000005:1] ET DECRYPT SSH Bruteforce login successful [**] [Classification: Suspicious Login Activity] [Priority: 1] {TCP} 192.168.1.5:12696 -> 192.168.1.100:22
+06/23-01:04:01.249422 [**] [1:1000003:1] ET WEB_SPECIFIC_APPS Suspicious Admin Panel Access Attempt [**] [Classification: Web Application Attack] [Priority: 2] {TCP} 192.168.1.102:46430 -> 103.20.15.4:8333
+06/23-01:04:29.249422 [**] [1:1000005:1] ET DECRYPT SSH Bruteforce login successful [**] [Classification: Suspicious Login Activity] [Priority: 1] {TCP} 45.227.254.10:25387 -> 192.168.1.100:22
+06/23-01:50:14.249422 [**] [1:1000006:1] ET POLICY Cryptomining pool activity detected [**] [Classification: Potential Corporate Policy Violation] [Priority: 3] {TCP} 10.0.0.5:2160 -> 45.227.254.10:8333
+06/23-01:51:41.249422 [**] [1:1000002:1] ET MALWARE Evil C2 DNS Lookup [**] [Classification: A Network Trojan was Detected] [Priority: 1] {UDP} 192.168.1.101:36936 -> 103.20.15.4:4444
+06/23-02:07:57.249422 [**] [1:1000002:1] ET MALWARE Evil C2 DNS Lookup [**] [Classification: A Network Trojan was Detected] [Priority: 1] {UDP} 192.168.1.100:25499 -> 103.20.15.4:4444
+06/23-02:08:57.249422 [**] [1:1000005:1] ET DECRYPT SSH Bruteforce login successful [**] [Classification: Suspicious Login Activity] [Priority: 1] {TCP} 103.20.15.4:10167 -> 10.0.0.5:22
+06/23-02:13:55.249422 [**] [1:1000001:1] ET SCAN Nmap SYN Scan [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 185.220.101.5:10809 -> 192.168.1.101:80
+06/23-02:30:53.249422 [**] [1:1000005:1] ET DECRYPT SSH Bruteforce login successful [**] [Classification: Suspicious Login Activity] [Priority: 1] {TCP} 192.168.1.5:31884 -> 192.168.1.102:22
+06/23-04:00:58.249422 [**] [1:1000004:1] ET DOS Exploit Attempt (EternalBlue style) [**] [Classification: Attempted Administrator Privilege Gain] [Priority: 1] {TCP} 103.20.15.4:2715 -> 192.168.1.101:445
+06/23-04:02:41.249422 [**] [1:1000001:1] ET SCAN Nmap SYN Scan [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 185.220.101.5:7758 -> 192.168.1.105:80
+06/23-04:39:53.249422 [**] [1:1000003:1] ET WEB_SPECIFIC_APPS Suspicious Admin Panel Access Attempt [**] [Classification: Web Application Attack] [Priority: 2] {TCP} 192.168.1.100:20101 -> 45.227.254.10:8333
+06/23-04:46:10.249422 [**] [1:1000004:1] ET DOS Exploit Attempt (EternalBlue style) [**] [Classification: Attempted Administrator Privilege Gain] [Priority: 1] {TCP} 198.51.100.12:23369 -> 192.168.1.102:445
+06/23-05:23:46.249422 [**] [1:1000002:1] ET MALWARE Evil C2 DNS Lookup [**] [Classification: A Network Trojan was Detected] [Priority: 1] {UDP} 192.168.1.102:10050 -> 45.227.254.10:4444
+06/23-06:25:20.249422 [**] [1:1000003:1] ET WEB_SPECIFIC_APPS Suspicious Admin Panel Access Attempt [**] [Classification: Web Application Attack] [Priority: 2] {TCP} 192.168.1.100:42645 -> 185.220.101.5:8333
+06/23-06:27:11.249422 [**] [1:1000007:1] ET MALWARE Generic Adware traffic [**] [Classification: A Network Trojan was Detected] [Priority: 3] {TCP} 192.168.1.101:1696 -> 198.51.100.12:80
+06/23-07:00:31.249422 [**] [1:1000004:1] ET DOS Exploit Attempt (EternalBlue style) [**] [Classification: Attempted Administrator Privilege Gain] [Priority: 1] {TCP} 185.220.101.5:1972 -> 192.168.1.101:445
+06/23-07:22:05.249422 [**] [1:1000004:1] ET DOS Exploit Attempt (EternalBlue style) [**] [Classification: Attempted Administrator Privilege Gain] [Priority: 1] {TCP} 185.220.101.5:58483 -> 192.168.1.105:445
